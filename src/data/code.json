@@ -1,0 +1,32 @@
+[
+    {
+      "title": "HTML",
+      "imageSrc": "code/html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "code/CSS.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "code/react.png"
+    },
+    {
+      "title": "Node",
+      "imageSrc": "code/Node.png"
+    },
+    {
+      "title": "GraphQL",
+      "imageSrc": "code/GraphQL.png"
+    },
+    {
+      "title": "MongoDB",
+      "imageSrc": "code/MongoDB.png"
+    },
+    {
+      "title": "Figma",
+      "imageSrc": "code/Figma.png"
+    }
+  ]
+
+  
